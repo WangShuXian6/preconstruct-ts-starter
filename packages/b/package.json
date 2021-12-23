@@ -1,0 +1,14 @@
+{
+  "name": "@my/b",
+  "version": "1.0.0",
+  "main": "dist/my-b.cjs.js",
+  "module": "dist/my-b.esm.js",
+  "umd:main": "dist/my-b.umd.min.js",
+  "license": "MIT",
+  "dependencies": {
+    "@my/a": "1.0.0"
+  },
+  "preconstruct": {
+    "umdName": "My.b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@my/a",
+  "version": "1.0.0",
+  "main": "dist/my-a.cjs.js",
+  "module": "dist/my-a.esm.js",
+  "umd:main": "dist/my-a.umd.min.js",
+  "license": "MIT",
+  "preconstruct": {
+    "umdName": "My.a",
+    "entrypoints": [
+      "index.ts",
+      "func.ts"
+    ]
+  }
+}
