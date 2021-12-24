@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@my/c": "1.0.0",
+    "@wsx/c": "1.0.0",
     "parcel-bundler": "^1.12.5"
   },
   "scripts": {

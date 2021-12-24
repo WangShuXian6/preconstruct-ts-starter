@@ -1,14 +1,14 @@
 {
-  "name": "@my/b",
+  "name": "@wsx/b",
   "version": "1.0.0",
-  "main": "dist/my-b.cjs.js",
-  "module": "dist/my-b.esm.js",
-  "umd:main": "dist/my-b.umd.min.js",
+  "main": "dist/wsx-b.cjs.js",
+  "module": "dist/wsx-b.esm.js",
+  "umd:main": "dist/wsx-b.umd.min.js",
   "license": "MIT",
   "dependencies": {
-    "@my/a": "1.0.0"
+    "@wsx/a": "1.0.0"
   },
   "preconstruct": {
-    "umdName": "My.b"
+    "umdName": "wsx.b"
   }
 }

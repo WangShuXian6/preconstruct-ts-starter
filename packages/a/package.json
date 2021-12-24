@@ -1,12 +1,12 @@
 {
-  "name": "@my/a",
+  "name": "@wsx/a",
   "version": "1.0.0",
-  "main": "dist/my-a.cjs.js",
-  "module": "dist/my-a.esm.js",
-  "umd:main": "dist/my-a.umd.min.js",
+  "main": "dist/wsx-a.cjs.js",
+  "module": "dist/wsx-a.esm.js",
+  "umd:main": "dist/wsx-a.umd.min.js",
   "license": "MIT",
   "preconstruct": {
-    "umdName": "My.a",
+    "umdName": "wsx.a",
     "entrypoints": [
       "index.ts",
       "func.ts"
