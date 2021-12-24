@@ -47,3 +47,5 @@ eslintcache/*
 # dist
 dist/**/*
 examples/dist
+packages/**/*/dist
+packages/a/func/dist
