@@ -1,0 +1,14 @@
+{
+  "name": "a-example",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@my/c": "1.0.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "dev": "parcel ./src/index.html -p 3005"
+  }
+}
