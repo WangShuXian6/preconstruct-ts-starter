@@ -1,14 +1,14 @@
 {
-  "name": "@wsx/b",
+  "name": "@airmusic/b",
   "version": "1.0.0",
-  "main": "dist/wsx-b.cjs.js",
-  "module": "dist/wsx-b.esm.js",
-  "umd:main": "dist/wsx-b.umd.min.js",
+  "main": "dist/airmusic-b.cjs.js",
+  "module": "dist/airmusic-b.esm.js",
+  "umd:main": "dist/airmusic-b.umd.min.js",
   "license": "MIT",
   "dependencies": {
-    "@wsx/a": "1.0.0"
+    "@airmusic/a": "1.0.0"
   },
   "preconstruct": {
-    "umdName": "wsx.b"
+    "umdName": "Airmusic.b"
   }
 }

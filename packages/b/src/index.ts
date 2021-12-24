@@ -1,4 +1,4 @@
-import a, { func } from "@wsx/a";
+import a, { func } from "@airmusic/a";
 a();
 func();
 export default function () {
