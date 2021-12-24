@@ -1,12 +1,12 @@
 {
-  "name": "@wsx/a",
+  "name": "@airmusic/a",
   "version": "1.0.0",
-  "main": "dist/wsx-a.cjs.js",
-  "module": "dist/wsx-a.esm.js",
-  "umd:main": "dist/wsx-a.umd.min.js",
+  "main": "dist/airmusic-a.cjs.js",
+  "module": "dist/airmusic-a.esm.js",
+  "umd:main": "dist/airmusic-a.umd.min.js",
   "license": "MIT",
   "preconstruct": {
-    "umdName": "wsx.a",
+    "umdName": "Airmusic.a",
     "entrypoints": [
       "index.ts",
       "func.ts"
