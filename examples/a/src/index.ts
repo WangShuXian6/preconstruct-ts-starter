@@ -1,4 +1,4 @@
-import c from "@my/c";
+import c from "@wsx/c";
 
 const main=()=>{
     console.log('a example')

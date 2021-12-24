@@ -1,4 +1,4 @@
-import a, { func } from "@my/a";
+import a, { func } from "@wsx/a";
 a();
 func();
 export default function () {

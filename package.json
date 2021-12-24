@@ -1,5 +1,5 @@
 {
-  "name": "my",
+  "name": "wsx",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -20,7 +20,7 @@
       "packages/*"
     ],
     "globals": {
-      "My": "My"
+      "wsx": "Wsx"
     }
   },
   "scripts": {
