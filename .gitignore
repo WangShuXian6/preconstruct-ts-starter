@@ -43,3 +43,6 @@ eslintcache/*
 
 # Parcel
 .cache
+
+# dist
+dist
